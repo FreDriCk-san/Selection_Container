@@ -1,0 +1,5 @@
+F:\C#\CollectionRegister\CollectionRegistration\obj\Debug\CollectionRegistration.csprojResolveAssemblyReference.cache
+F:\C#\CollectionRegister\CollectionRegistration\bin\Debug\CollectionRegistration.dll
+F:\C#\CollectionRegister\CollectionRegistration\bin\Debug\CollectionRegistration.pdb
+F:\C#\CollectionRegister\CollectionRegistration\obj\Debug\CollectionRegistration.dll
+F:\C#\CollectionRegister\CollectionRegistration\obj\Debug\CollectionRegistration.pdb
