@@ -26,7 +26,7 @@ namespace CollectionRegistration
 
             var id = Guid.NewGuid();
 
-            if (null != container.FirstOrDefault(c => c.Key == id).Key)
+            if (default(Guid) != container.FirstOrDefault(c => c.Key == id).Key)
             {
                 throw new Exception("The current id is already existing!");
             }

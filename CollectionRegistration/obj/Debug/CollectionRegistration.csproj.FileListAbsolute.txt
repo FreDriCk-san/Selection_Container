@@ -3,3 +3,9 @@ F:\C#\CollectionRegister\CollectionRegistration\bin\Debug\CollectionRegistration
 F:\C#\CollectionRegister\CollectionRegistration\bin\Debug\CollectionRegistration.pdb
 F:\C#\CollectionRegister\CollectionRegistration\obj\Debug\CollectionRegistration.dll
 F:\C#\CollectionRegister\CollectionRegistration\obj\Debug\CollectionRegistration.pdb
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\CollectionRegistration\bin\Debug\CollectionRegistration.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\CollectionRegistration\bin\Debug\CollectionRegistration.pdb
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\CollectionRegistration\obj\Debug\CollectionRegistration.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\CollectionRegistration\obj\Debug\CollectionRegistration.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\CollectionRegistration\obj\Debug\CollectionRegistration.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\CollectionRegistration\obj\Debug\CollectionRegistration.pdb

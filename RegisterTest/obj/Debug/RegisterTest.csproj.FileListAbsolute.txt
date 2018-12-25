@@ -130,3 +130,22 @@ F:\C#\CollectionRegister\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatf
 F:\C#\CollectionRegister\RegisterTest\bin\Debug\CollectionRegistration.pdb
 F:\C#\CollectionRegister\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 F:\C#\CollectionRegister\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\RegisterTest.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\RegisterTest.pdb
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\CollectionRegistration.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\CollectionRegistration.pdb
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\obj\Debug\RegisterTest.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\obj\Debug\RegisterTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\obj\Debug\RegisterTest.csproj.CopyComplete
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\obj\Debug\RegisterTest.dll
+D:\Visual Studio Projects\C#\SelectionContainer\Selection_Container\RegisterTest\obj\Debug\RegisterTest.pdb
